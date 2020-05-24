@@ -1,0 +1,15 @@
+C:\Dot_Net\Assignment6\Charts_Assignment6\Charts_Assignment6\bin\Debug\Charts_Assignment6.exe.config
+C:\Dot_Net\Assignment6\Charts_Assignment6\Charts_Assignment6\bin\Debug\Charts_Assignment6.exe
+C:\Dot_Net\Assignment6\Charts_Assignment6\Charts_Assignment6\bin\Debug\Charts_Assignment6.pdb
+C:\Dot_Net\Assignment6\Charts_Assignment6\Charts_Assignment6\obj\Debug\Charts_Assignment6.csprojAssemblyReference.cache
+C:\Dot_Net\Assignment6\Charts_Assignment6\Charts_Assignment6\obj\Debug\Charts_Assignment6.Form1.resources
+C:\Dot_Net\Assignment6\Charts_Assignment6\Charts_Assignment6\obj\Debug\Charts_Assignment6.Properties.Resources.resources
+C:\Dot_Net\Assignment6\Charts_Assignment6\Charts_Assignment6\obj\Debug\Charts_Assignment6.csproj.GenerateResource.cache
+C:\Dot_Net\Assignment6\Charts_Assignment6\Charts_Assignment6\obj\Debug\Charts_Assignment6.csproj.CoreCompileInputs.cache
+C:\Dot_Net\Assignment6\Charts_Assignment6\Charts_Assignment6\obj\Debug\Charts_Assignment6.exe
+C:\Dot_Net\Assignment6\Charts_Assignment6\Charts_Assignment6\obj\Debug\Charts_Assignment6.pdb
+C:\Dot_Net\Assignment6\Charts_Assignment6\Charts_Assignment6\obj\Debug\Charts_Assignment6.Form2.resources
+C:\Dot_Net\Assignment6\Charts_Assignment6\Charts_Assignment6\obj\Debug\Charts_Assignment6.Form3.resources
+C:\Dot_Net\Assignment6\Charts_Assignment6\Charts_Assignment6\obj\Debug\Charts_Assignment6.Form4.resources
+C:\Dot_Net\Assignment6\Charts_Assignment6\Charts_Assignment6\obj\Debug\Charts_Assignment6.Form5.resources
+C:\Dot_Net\Assignment6\Charts_Assignment6\Charts_Assignment6\obj\Debug\Charts_Assignment6.Form6.resources
